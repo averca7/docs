@@ -41,5 +41,5 @@ If a project doesn't have a recommended file, you can click **Propose** to draft
 - "[Setting guidelines for repository contributors](/articles/setting-guidelines-for-repository-contributors)"
 - "[Adding a license to a repository](/articles/adding-a-license-to-a-repository)"
 - "[About issue and pull request templates](/articles/about-issue-and-pull-request-templates)"
-- "[Open Source Guides](https://opensource.guide/)"
+- "[Open Source Guides](https://oensource.guide/)"
 - [{% data variables.product.prodname_learning %}]({% data variables.product.prodname_learning_link %})
